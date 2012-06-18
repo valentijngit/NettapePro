@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Valentijn Vanwynsber/Documents/DoNotBackup/workspace/valentijnvanportable/NetTape/required/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentijn Vanwynsber/Documents/DoNotBackup/workspace/valentijnvanportable/NetTape/required/bcprov-jdk15-145.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentijn Vanwynsber/Documents/DoNotBackup/workspace/valentijnvanportable/NetTape/required/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentijn Vanwynsber/Documents/DoNotBackup/workspace/valentijnvanportable/NetTape/required/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentijn Vanwynsber/Documents/DoNotBackup/workspace/valentijnvanportable/NetTape/required/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentijn Vanwynsber/Documents/DoNotBackup/workspace/valentijnvanportable/NetTape/required/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentijn Vanwynsber/Documents/DoNotBackup/workspace/valentijnvanportable/NetTape/required/javassist-3.9.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentijn Vanwynsber/Documents/DoNotBackup/workspace/valentijnvanportable/NetTape/required/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentijn Vanwynsber/Documents/DoNotBackup/workspace/valentijnvanportable/NetTape/required/jxfilewatcher-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentijn Vanwynsber/Documents/DoNotBackup/workspace/valentijnvanportable/NetTape/required/jxfilewatcher-1.0.1.partial.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentijn Vanwynsber/Documents/DoNotBackup/workspace/valentijnvanportable/NetTape/required/jxfilewatcher-demo-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentijn Vanwynsber/Documents/DoNotBackup/workspace/valentijnvanportable/NetTape/required/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentijn Vanwynsber/Documents/DoNotBackup/workspace/valentijnvanportable/NetTape/required/postgresql-8.4-701.jdbc3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentijn Vanwynsber/Documents/DoNotBackup/workspace/valentijnvanportable/NetTape/required/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentijn Vanwynsber/Documents/DoNotBackup/workspace/valentijnvanportable/NetTape/required/slf4j-jdk14-1.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Valentijn Vanwynsber/Documents/DoNotBackup/workspace/valentijnvanportable/NetTape/moldovan/backupProWin_lib/swt64.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
